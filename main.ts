@@ -1,7 +1,12 @@
 game.pushScene()
 
 scene_util.captureRegisteringRoomScenes(() => {
-    //mushroomfarm.prepare_mushroomfarm()
+    zzhCropland.prepare_zzhCropland()
+    game.popScene()
+})
+
+scene_util.captureRegisteringRoomScenes(() => {
+    hxyBuildingHouse.prepare_hxyBuildingHouse()
     game.popScene()
 })
 
