@@ -4,7 +4,9 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "cubicbird-land-core": "github:felixtsu/cubicbird-land-core#v0.0.19"
+        "cubicbird-land-core": "github:felixtsu/cubicbird-land-core#v0.0.19",
+        "胡笑语建筑": "pub:44279-24908-14275-41177",
+        "政亨农田": "pub:13004-95776-88729-67450"
     },
     "files": [
         "README.md",
