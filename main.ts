@@ -6,7 +6,12 @@ scene_util.captureRegisteringRoomScenes(() => {
 })
 
 scene_util.captureRegisteringRoomScenes(() => {
-    //hxyBuildingHouse.prepare_hxyBuildingHouse()
+    hxyBuildingHouse.prepare_hxyBuildingHouse()
+    game.popScene()
+})
+
+scene_util.captureRegisteringRoomScenes(() => {
+    treeElder.prepare_treeElder()
     game.popScene()
 })
 
