@@ -34,7 +34,13 @@
         "tilemapTile": true,
         "displayName": "myTile3"
     },
-    "zzh级别3": {
+    "wn_myTile1": {
+        "data": "hwQQABAAAAAAAACAiAAAAAAAAIBnCAAAAAAAAHiHAACAiIiIaHeIiIB3hoiIdndmAGh3d2dmhogAgIh2d3d3ZgAAgIhohohoAICIdnd3ZmYAiHd3ZmZmZoh3d4Zod4eIiIiIiHdniIgAAABoZ4hmZgAAiHiGeGdmAABoiIh3iIgAAIBmeIdoZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "wn_myTile0"
+    },
+    "级别3": {
         "id": "级别3",
         "mimeType": "application/mkcd-tilemap",
         "data": "MTAwYTAwMDgwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMzAzMDUwNTA1MDUwMzAzMDEwMTAzMDMwMzAzMDMwMzAzMDMwMTAxMDMwMzAzMDMwMzAzMDMwMzAxMDEwMzAzMDMwMzAzMDMwMzAzMDEwMTAzMDMwMzAzMDMwMzAzMDMwMTAxMDMwMzAzMDMwMzAzMDMwMzAxMDIwMTAxMDEwNDA0MDEwMTAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
@@ -48,23 +54,7 @@
         ],
         "displayName": "zzh级别3"
     },
-    "hxy级别2": {
-        "id": "级别2",
-        "mimeType": "application/mkcd-tilemap",
-        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDEwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjA3MDcwNzAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDcwNzA3MDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwNzA3MDcwMjAyMDIwMjAyMDIwMjA3MDcwNzAyMDIwMjAyMDIwMjAyMDIwMjAyMDcwNzA3MDcwNzA3MDIwMjAyMDIwMjAyMDIwMjAyMDIwNzA3MDcwNzA3MDcwMjAyMDIwMjAyMDIwMjAyMDIwMjA3MDcwNzAzMDMwMzAzMDMwMzAyMDIwMjAzMDMwMzAzMDMwMzAzMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjA1MDQwNjAyMDIwMjAyMDIwMjAyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMjIwMjAwMDAwMDAwMDAwMDIyMDIwMDAwMDAwMDAwMDAyMjAyMDAwMDAwMjIwMjAwMDAwMDAwMjAyMjIyMDIwMDAwMDAwMDIwMjIyMjAyMDAwMDAwMDAyMDIyMjIyMjIyMDAyMDIyMjIyMjAwMDAyMDAwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIwMDAyMDAwMDAwMA==",
-        "tileset": [
-            "myTiles.transparency16",
-            "sprites.dungeon.collectibleInsignia",
-            "sprites.dungeon.floorLight2",
-            "sprites.builtin.brick",
-            "tiles.util.arrow7",
-            "tiles.util.arrow15",
-            "tiles.util.arrow5",
-            "sprites.dungeon.darkGroundNorthWest1"
-        ],
-        "displayName": "hxy级别2"
-    },
-    "wn古树内部": {
+    "级别2": {
         "id": "级别2",
         "mimeType": "application/mkcd-tilemap",
         "data": "MTAwYTAwMDgwMDAxMDEwMTAxMDMwNTA1MDUwNTA2MDEwMTAxMDEwNDAyMDIwMjAyMDcwMTAxMDEwMTA0MDIwMjAyMDIwNzAzMDUwNTA1MDIwMjAyMDIwMjA3MDQwMjAyMDIwMjAyMDIwMjAyMDcwYTA4MDgwODAyMDIwODA4MDgwOTBiMGMwYjBjMDQwNzBjMGIwYzBiMGQwYjBjMGMwNDA3MGIwYzBiMGMwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
@@ -85,12 +75,6 @@
             "sprites.builtin.forestTiles0"
         ],
         "displayName": "wn古树内部"
-    },
-    "wn_myTile1": {
-        "data": "hwQQABAAAAAAAACAiAAAAAAAAIBnCAAAAAAAAHiHAACAiIiIaHeIiIB3hoiIdndmAGh3d2dmhogAgIh2d3d3ZgAAgIhohohoAICIdnd3ZmYAiHd3ZmZmZoh3d4Zod4eIiIiIiHdniIgAAABoZ4hmZgAAiHiGeGdmAABoiIh3iIgAAIBmeIdoZg==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "wn_myTile1"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
