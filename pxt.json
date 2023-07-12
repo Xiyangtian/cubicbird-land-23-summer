@@ -4,10 +4,10 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "cubicbird-land-core": "github:felixtsu/cubicbird-land-core#v0.0.19",
-        "政亨农田": "pub:98774-93124-59816-53775",
-        "胡笑语建筑": "pub:40367-18195-82606-50059",
-        "麻烦的古树长老": "pub:67720-24117-10079-98589"
+        "cubicbird-land-core": "github:felixtsu/cubicbird-land-core#v0.0.20",
+        "胡笑语建筑": "pub:09695-81823-16391-12190",
+        "政亨农田": "pub:95259-73374-66240-40497",
+        "麻烦的古树长老": "pub:52188-30394-07299-52840"
     },
     "files": [
         "README.md",
