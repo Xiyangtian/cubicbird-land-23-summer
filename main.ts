@@ -10,9 +10,9 @@ scene_util.captureRegisteringRoomScenes(() => {
     game.popScene()
 })
 
-scene_util.captureRegisteringRoomScenes(() => {
+/*scene_util.captureRegisteringRoomScenes(() => {
     treeElder.prepare_treeElder()
     game.popScene()
-})
+})*/
 
 cbland.startVillage(false)
