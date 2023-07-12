@@ -70,6 +70,7 @@ case "hxy级别2":return tiles.createTilemap(hex`1000100002020202020202010202020
             case "tile9":return tile9;
             case "myTile3":
             case "tile8":return tile8;
+            case "wn_myTile1":return wn_myTile1;
         }
         return null;
     })
