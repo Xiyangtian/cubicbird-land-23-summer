@@ -28,6 +28,20 @@
         "tilemapTile": true,
         "displayName": "myTile3"
     },
+    "zzh级别3": {
+        "id": "级别3",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYTAwMDgwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMzAzMDQwNDA0MDQwMzAzMDEwMTAzMDMwMzAzMDMwMzAzMDMwMTAxMDMwMzAzMDMwMzAzMDMwMzAxMDEwMzAzMDMwMzAzMDMwMzAzMDEwMTAzMDMwMzAzMDMwMzAzMDMwMTAxMDMwMzAzMDMwMzAzMDMwMzAxMDIwMTAxMDEwNTA1MDEwMTAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tileGrass1",
+            "sprites.swamp.swampTile13",
+            "sprites.castle.tilePath5",
+            "myTiles.tile15",
+            "sprites.builtin.forestTiles0"
+        ],
+        "displayName": "zzh级别3"
+    },
     "wn_myTile1": {
         "data": "hwQQABAAAAAAAACAiAAAAAAAAIBnCAAAAAAAAHiHAACAiIiIaHeIiIB3hoiIdndmAGh3d2dmhogAgIh2d3d3ZgAAgIhohohoAICIdnd3ZmYAiHd3ZmZmZoh3d4Zod4eIiIiIiHdniIgAAABoZ4hmZgAAiHiGeGdmAABoiIh3iIgAAIBmeIdoZg==",
         "mimeType": "image/x-mkcd-f4",
@@ -55,20 +69,6 @@
             "sprites.builtin.forestTiles0"
         ],
         "displayName": "wn古树内部"
-    },
-    "zzh级别3": {
-        "id": "级别3",
-        "mimeType": "application/mkcd-tilemap",
-        "data": "MTAwYTAwMDgwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMzAzMDQwNDA0MDQwMzAzMDEwMTAzMDMwMzAzMDMwMzAzMDMwMTAxMDMwMzAzMDMwMzAzMDMwMzAxMDEwMzAzMDMwMzAzMDMwMzAzMDEwMTAzMDMwMzAzMDMwMzAzMDMwMTAxMDMwMzAzMDMwMzAzMDMwMzAxMDIwMTAxMDEwNTA1MDEwMTAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
-        "tileset": [
-            "myTiles.transparency16",
-            "sprites.castle.tileGrass1",
-            "sprites.swamp.swampTile13",
-            "sprites.castle.tilePath5",
-            "myTiles.tile15",
-            "sprites.builtin.forestTiles0"
-        ],
-        "displayName": "zzh级别3"
     },
     "hxy级别2": {
         "id": "级别2",
